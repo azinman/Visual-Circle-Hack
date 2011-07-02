@@ -1,0 +1,54 @@
+/* UNIVERSAL **************************************************************************************/
+
+html, body {
+  font-family: "DIN Next W01 Regular", "Helvetica Neue", Helvetica, "Lucida Grande", Arial, sans-serif;
+  font-size: 93%;
+  color: #EEE;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  background-color: #333;
+  background-image: url(http://subtlepatterns.com/patterns/tactile_noise.gif);
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+  background-position: initial initial;
+  background-repeat: initial initial
+  -webkit-transition: all 0.5s ease-in;
+  -moz-transition: all 0.5s ease-in;
+  -o-transition: all 0.5s ease-in;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+a:link,
+a:active,
+a:visited {
+  text-decoration: none;
+  color: #AAA;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #DA5151;
+}
+
+a img {border:none;}
+
+ul {
+ margin-left: 0;
+ padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+

@@ -1,0 +1,24 @@
+.DS_Store
+*.o
+*.d
+*.tmp
+*.swp
+app/bin/*
+*.pyc
+
+# xcode noise
+build/*
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+webkit-plugin-mac/build
+
+# old skool
+.svn
+
+# osx noise
+.DS_Store
+profile
+
+# common extension hard links
+safari-extension-mac/DepthJS.safariextension/extension-common
